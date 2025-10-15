@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Jurno remembers what you save, learns your taste, and turns your saved TikToks and Reels into organized, shareable plans - helping you act on what inspires you.
           </li>
         </ol>
 
